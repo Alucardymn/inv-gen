@@ -6,10 +6,10 @@
 
 ## Student Information
 
-**Student Name:** Muaien Al-ahmar
-**Student ID:** 210513526
-**Instructor:** [Instructor Name]
-**Repository Link:** https://github.com/[username]/invoice-gen
+**Student Name: Muaien Al-ahmar
+**Student ID: 210513526
+**Instructor: [Instructor Name]
+**Repository Link: https://github.com/Alucardymn/invoice-gen
 
 ---
 
