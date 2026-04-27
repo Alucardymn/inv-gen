@@ -9,7 +9,7 @@
 - **Student Name:** Muaien Al-ahmar
 - **Student ID:** 210513526
 - **Instructor:** F. Kuzey Edes Huyal
-- **Repository Link:** https://github.com/[username]/invoice-gen
+- **Repository Link:** https://github.com/Alucardymn/invoice-gen
 
 ---
 
